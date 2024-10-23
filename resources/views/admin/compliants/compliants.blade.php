@@ -44,7 +44,7 @@
                         @forelse($departments as $department)
                         <tr>
                             <td>{{$loop->iteration}}</td>
-                            <th>{{$->name}}</th>
+                            <th>{{$department->name}}</th>
                             <th>{{$department->code}}</th>
                             <th>{{$department->phone}}</th>
                             
