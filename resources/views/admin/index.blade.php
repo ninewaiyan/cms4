@@ -28,6 +28,8 @@
         <!-- Topbar Navbar -->
         <ul class="navbar-nav ml-auto">
 
+            <h1>This is In Git</h1>
+
             <!-- Nav Item - Search Dropdown (Visible Only XS) -->
             <li class="nav-item dropdown no-arrow d-sm-none">
                 <a class="nav-link dropdown-toggle" href="#" id="searchDropdown" role="button" data-toggle="dropdown"
